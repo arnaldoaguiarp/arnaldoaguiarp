@@ -11,7 +11,7 @@
   <img align="center" alt="Arnaldo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arnaldo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Arnaldo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Arnaldo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/745992449109000292/908188787123822622/download20211103235430.png">
+  <img align="right" alt="Arnaldo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/745992449109000292/908190926332100648/download20211104000617.png">
 </div>
   
   ##
