@@ -1,4 +1,5 @@
 ### Olá, eu sou o Arnaldo Aguiar 👋
+## Hi, I'm Arnaldo Aguiar 👋
 <!--<div align="center">
   <a href="https://github.com/arnaldoaguiarp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arnaldoaguiarp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,12 +14,6 @@
   <img align="center" alt="Arnaldo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Arnaldo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <!--<img align="right" alt="Arnaldo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/745992449109000292/908190926332100648/download20211104000617.png">-->
-</div>
-  
-  ##
- 
-<div> 
-
 </div>
 
 <!--
